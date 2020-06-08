@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chase S. Eck
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Economics Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Arizona Eller College of Management
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: The University of Arizona
+    year: 2021
+  - course: MA in Economics
+    institution: The University of Arizona
+    year: 2017
+  - course: BA in Mathematical Methods in the Social Sciences, Economics, and Math
+    institution: Northwestern University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/chase-eck
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

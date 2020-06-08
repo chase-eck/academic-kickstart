@@ -62,11 +62,11 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
+diagram = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "eckcs1@arizona.edu"
+phone = "417-872-7227"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "1130 E. Helen St.", city = "Tucson", region = "AZ", postcode = "85721", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -112,7 +112,7 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/chase__eck"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "chase__eck"
 
 ############################
 ## Regional Settings
