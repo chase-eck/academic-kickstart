@@ -20,12 +20,11 @@ organizations:
   url: "https://arizona.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the health and welfare effects of the safety net and health policy.
 
 interests:
-- Labor Economics
-- Health Economics
-- All the other Economics
+- Labor & Health Economics
+- Public Policy
 
 education:
   courses:
@@ -73,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Chase Eck is a doctoral candidate in Economics at The University of Arizona. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chase Eck is a doctoral candidate in Economics at The University of Arizona. His research interests include the optimal design of transfer programs and the effects of  occupational licensing in medicine on patients.
