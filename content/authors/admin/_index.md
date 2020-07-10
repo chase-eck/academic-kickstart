@@ -14,8 +14,10 @@ role: Economics Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Arizona Eller College of Management Department  of Economics
+- name: Eller College of Management
   url: "https://eller.arizona.edu/departments-research/schools-departments/economics"
+- name: The University of Arizona
+  url: "https://arizona.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -57,9 +59,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- #- icon: cv
-   #icon_pack: ai
-   #link: files/eck_cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/eck_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chase Eck is a doctoral candidate in Economics at The University of Arizona. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

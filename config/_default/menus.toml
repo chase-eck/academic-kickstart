@@ -8,20 +8,26 @@
   url = "#about"
   weight = 10
 
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
+
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Working Papers"
+  url = "#working-papers"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "#publications"
   weight = 30
 
+
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "Teaching"
+  url = "#teaching"
+  weight = 50
 
 [[main]]
   name = "Contact"
@@ -32,5 +38,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "files/cv.pdf"
+   url = "files/eck_cv.pdf"
    weight = 70
