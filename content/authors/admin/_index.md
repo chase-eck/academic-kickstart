@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Chase Eck is a doctoral candidate in Economics at The University of Arizona. His research interests include the optimal design of transfer programs and the effects of  occupational licensing in medicine.
+I am is a doctoral candidate in Economics at The University of Arizona. My research interests include the optimal design of transfer programs and the effects of occupational licensing in medicine.

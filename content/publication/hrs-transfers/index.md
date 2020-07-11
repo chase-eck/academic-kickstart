@@ -17,7 +17,7 @@ publishDate: "2020-03-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Upjohn Institute working paper ; 19-313"
 publication_short: ""
 
 abstract: While there has been broad interest in the direct effects of major life events on older households that experience them, little attention has been paid to the intergenerational transmission of those effects—how negative shocks in parents’ households affect the outcomes of their adult children—or to the role that grown children play in helping their parents to recover from adverse events. We use regression and event study approaches to examine within-family changes in monetary transfers and informal care following wealth loss, involuntary job displacement, spousal death, and health shocks in retirement-aged households. We find that giving to adult children is responsive to changes in parents’ wealth and earned income. We document large reductions in the likelihood of making financial transfers to children following wealth loss and job displacement, particularly in households with low accumulated wealth. We also find that parents increase their transfers following spousal death and reduce them with the onset of disability or poor health. We find that upstream transfers are also responsive to life events—children, particularly those with low-wealth parents, increase their financial transfers and in-kind assistance following adverse shocks in their parents’ households."
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0749597818305387?casa_token=hb4PMfTe-sQAAAAA:23ZBdOS_1boatuslg5xpj1seqwhggj9wrsPk2tf-EKKtlq-J4Ct4EBgmXb35MJFVybE3jjc_6w
+url_pdf: https://research.upjohn.org/up_workingpapers/313/
 url_code: ''
 url_dataset: ''
 url_poster: ''
