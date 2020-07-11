@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: "Job Market Paper"
 publication_short: ""
 
-abstract:
+abstract: Forthcoming
 
 # Summary. An optional shortened abstract.
-summary:
+summary: Forthcoming
 
 tags:
 - Certified Nurse Midwives

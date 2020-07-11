@@ -8,7 +8,7 @@ date = 2020-07-03
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = "Average instructor rating: ???/5"
+subtitle = "Average instructor rating: 4.36/5"
 
 # Order that this section will appear in.
 weight = 40

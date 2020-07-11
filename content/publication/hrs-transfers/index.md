@@ -23,13 +23,15 @@ publication_short: ""
 abstract: While there has been broad interest in the direct effects of major life events on older households that experience them, little attention has been paid to the intergenerational transmission of those effects—how negative shocks in parents’ households affect the outcomes of their adult children—or to the role that grown children play in helping their parents to recover from adverse events. We use regression and event study approaches to examine within-family changes in monetary transfers and informal care following wealth loss, involuntary job displacement, spousal death, and health shocks in retirement-aged households. We find that giving to adult children is responsive to changes in parents’ wealth and earned income. We document large reductions in the likelihood of making financial transfers to children following wealth loss and job displacement, particularly in households with low accumulated wealth. We also find that parents increase their transfers following spousal death and reduce them with the onset of disability or poor health. We find that upstream transfers are also responsive to life events—children, particularly those with low-wealth parents, increase their financial transfers and in-kind assistance following adverse shocks in their parents’ households."
 
 # Summary. An optional shortened abstract.
-summary:
+summary: We use regression and event study approaches to examine within-family changes in monetary transfers and informal care following wealth loss, involuntary job displacement, spousal death, and health shocks in retirement-aged households.
 
 tags:
-- Mixed-motive negotiation
-- Pareto efficiency
-- Fixed-pie assumption
-- Markov chain
+- Adverse events
+- Intergenerational transfers
+- Health shocks
+- Long-term care
+- Health and Retirement Study
+
 featured: false
 
 # links:

@@ -25,7 +25,7 @@ publication_short: ""
 abstract: Mixed-motive negotiations are strategically, socially, and motivationally complex. Theorists argue that multiparty negotiations exacerbate these complexities leading to inefficient outcomes. In contrast, we propose that multiparty negotiators respond to the complexities of their negotiation context by using strategy differently than dyadic negotiators and that one reason why is that they arrive at the negotiation table with weaker fixed pie perceptions than dyadic negotiators. Results across three studies showed that multiparty negotiators had weaker fixed pie perceptions compared to dyadic negotiators. Multiparty negotiators also engaged in more integrative strategic behavior and used more complex complementary and structural sequences of behavior than dyadic negotiators. These differences in use of strategy helped multiparty negotiators achieve Pareto efficient outcomes equal to those of dyads. To obtain a conservative estimate of the effect size of context on fixed pie perceptions, we conducted an internal meta-analysis of our file drawer.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: We propose that multiparty negotiators respond to the complexities of their negotiation context by using strategy differently than dyadic negotiators and that one reason why is that they arrive at the negotiation table with weaker fixed pie perceptions than dyadic negotiators.
 
 tags:
 - Mixed-motive negotiation
