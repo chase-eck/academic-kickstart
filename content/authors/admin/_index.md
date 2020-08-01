@@ -26,6 +26,11 @@ interests:
 - Labor & Health Economics
 - Public Policy
 
+grants:
+- NSF Dissertation Improvement Grant - 2020 ($24,355)
+- Eller CMIH Research Grant - 2020 ($5,000)
+- GPSC REAP Grant - 2019 ($1,500)
+
 education:
   courses:
   - course: PhD in Economics
