@@ -1,3 +1,4 @@
+cd Documents\GitHub\academic_site
 hugo
 cd public
 git add .
