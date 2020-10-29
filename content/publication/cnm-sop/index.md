@@ -16,13 +16,13 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper - Manuscript Forthcoming"
+publication: "Job Market Paper"
 publication_short: ""
 
 abstract: The high cost of health-care is a major driver of high medical spending in the United States. Reforming healthcare labor markets is an understudied and increasingly common cost-based intervention. To shed light on the effects of such reforms I use plausibly exogenous variation in the strictness of Scope-of-Practice laws for Certified Nurse Midwives (CNMs). Half of all states have relaxed their SOP laws to allow CNMs to practice and prescribe independently of a physician. I estimate the effect of granting CNMs full independence on hospital facility costs using administrative data from the Centers for Medicare and Medicaid Services (CMS) and inpatient discharge records from the Healthcare Cost and Utilization Project (HCUP). Using a two-way fixed-effects model I find that allowing CNMs to practice independently substantially reduces hospital facility costs per birth and the use of intensive procedures, such as cesarean sections. These cost reductions are concentrated in hospitals that are well-positioned to integrate CNMs into their practice. Using a structural choice model, I decompose the overall effect of the policy into savings generated from increased hospital efficiency and savings due to changing selection of patients into hospitals. I find that the savings are primarily driven by increased hospital efficiency for low-risk patients and higher-risk patients select into higher-cost hospitals after the law change. These effects are attenuated by market concentration and a high density of OBGYNs.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 tags:
 - Certified Nurse Midwives
 - Hospital facility costs
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:
+url_pdf: 'files/cnm_sop_eck.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
