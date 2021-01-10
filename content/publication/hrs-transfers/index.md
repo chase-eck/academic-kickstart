@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 # url: "www.nber.org/papers/w28295"
-url_pdf: '/files/Schaller_Eck_Dec2020'
+url_pdf: 'files/Schaller_Eck_Dec2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
