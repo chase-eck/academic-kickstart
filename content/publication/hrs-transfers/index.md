@@ -1,14 +1,14 @@
 ---
 title: "Family Support in Hard Times: Dynamics of Intergenerational Exchange after Adverse Events"
 authors:
-- admin
 - Jessamyn Schaller
+- admin
 author_notes:
 date: "2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-01T00:00:00Z"
+publishDate: "2020-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
