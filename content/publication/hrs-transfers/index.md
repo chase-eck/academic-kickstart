@@ -17,7 +17,7 @@ publishDate: "2020-03-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Upjohn Institute working paper ; 19-313"
+publication: "NBER working paper 28295"
 publication_short: ""
 
 abstract: We use an event-study approach to examine changes in intergenerational financial transfers and informal care within families following wealth loss, job exit, widowhood, and health shocks. We find sharp reductions in parental giving to adult children following negative shocks to parents' wealth and earned income, particularly in low-wealth households. Parental giving also decreases with some health shocks and increases following spousal death. Meanwhile, children of low-wealth households increase financial transfers to their parents following adverse shocks and children in both high- and low-wealth households increase their provision of informal care to parents following a wide range of adverse shocks.
