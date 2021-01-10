@@ -62,6 +62,6 @@ hero_media = ""
 <p class="cta-btns">
     Check out my...
     <p>
-     <a class= "text-decoration-none btn btn-light btn-lg" href = "/files/cnm_sop_eck.pdf">Job Market Paper</a> or <a class= "text-decoration-none btn btn-light btn-lg" href = "/files/eck_cv.pdf">CV</a>
+     <a class= "text-decoration-none btn btn-light btn-lg" href = "/files/cnm_sop_jmp_eck.pdf">Job Market Paper</a> or <a class= "text-decoration-none btn btn-light btn-lg" href = "/files/eck_cv.pdf">CV</a>
      </p>
 </p>

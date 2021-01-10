@@ -1,5 +1,5 @@
 ---
-title: "Adverse Life Events and Intergenerational Transfers"
+title: "Family Support in Hard Times: Dynamics of Intergenerational Exchange after Adverse Events"
 authors:
 - admin
 - Jessamyn Schaller
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: "Upjohn Institute working paper ; 19-313"
 publication_short: ""
 
-abstract: While there has been broad interest in the direct effects of major life events on older households that experience them, little attention has been paid to the intergenerational transmission of those effects—how negative shocks in parents’ households affect the outcomes of their adult children—or to the role that grown children play in helping their parents to recover from adverse events. We use regression and event study approaches to examine within-family changes in monetary transfers and informal care following wealth loss, involuntary job displacement, spousal death, and health shocks in retirement-aged households. We find that giving to adult children is responsive to changes in parents’ wealth and earned income. We document large reductions in the likelihood of making financial transfers to children following wealth loss and job displacement, particularly in households with low accumulated wealth. We also find that parents increase their transfers following spousal death and reduce them with the onset of disability or poor health. We find that upstream transfers are also responsive to life events—children, particularly those with low-wealth parents, increase their financial transfers and in-kind assistance following adverse shocks in their parents’ households."
+abstract: We use an event-study approach to examine changes in intergenerational financial transfers and informal care within families following wealth loss, job exit, widowhood, and health shocks. We find sharp reductions in parental giving to adult children following negative shocks to parents' wealth and earned income, particularly in low-wealth households. Parental giving also decreases with some health shocks and increases following spousal death. Meanwhile, children of low-wealth households increase financial transfers to their parents following adverse shocks and children in both high- and low-wealth households increase their provision of informal care to parents following a wide range of adverse shocks.
 
 # Summary. An optional shortened abstract.
 summary: We use regression and event study approaches to examine within-family changes in monetary transfers and informal care following wealth loss, involuntary job displacement, spousal death, and health shocks in retirement-aged households.
@@ -36,8 +36,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: https://research.upjohn.org/up_workingpapers/313/
+url: 'https://www.nber.org/papers/w28295'
+url_pdf: '/files/Schaller_Eck_Dec2020'
 url_code: ''
 url_dataset: ''
 url_poster: ''
