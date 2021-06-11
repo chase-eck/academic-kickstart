@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Economics Ph.D. Candidate
+role: Economist
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://arizona.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the health and welfare effects of the safety net and health policy.
+bio: My research interests include the social safety net, pricing and concentration, and the healthcare workforce.
 
 interests:
 - Labor & Health Economics
@@ -35,7 +35,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: The University of Arizona
-    year: 2021 (Expected)
+    year: 2021
   - course: MA in Economics
     institution: The University of Arizona
     year: 2017
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral candidate in Economics at The University of Arizona. My research interests include the optimal design of transfer programs and the effects of occupational licensing in medicine.
+I am a doctoral candidate in Economics at The University of Arizona and will be starting as an Economist at the Baylor College of Medicine and VA Houston through the Center for Innovations in Quality, Effectiveness and Safety (IQuEST). My research interests include the social safety net, pricing and concentration, and the healthcare workforce.
