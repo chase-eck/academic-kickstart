@@ -88,23 +88,5 @@
       {{ end }}
     </ul>
     {{ end }}
-
-    {{ with $person.interests }}
-    <h3>{{ i18n "interests" | markdownify }}</h3>
-    <ul class="ul-interests">
-      {{ range . }}
-      <li>{{ . | markdownify | emojify }}</li>
-      {{ end }}
-    </ul>
-    {{ end }}
-
-    {{ with $person.grants }}
-    <h3>Funded Grants</h3>
-    <ul class="ul-interests">
-      {{ range . }}
-      <li>{{ . | markdownify | emojify }}</li>
-      {{ end }}
-    </ul>
-    {{ end }}
   </div>
 </div>

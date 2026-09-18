@@ -11,6 +11,19 @@ index 4e9f95d7..101c3b45 100644
                {{- else -}}
                  {{- $authors = $authors | append ($v | plainify) -}}
                {{- end -}}
+diff --git a/layouts/partials/page_metadata_authors.html b/layouts/partials/page_metadata_authors.html
+index ef685d5a..2d7a48b3 100644
+--- a/layouts/partials/page_metadata_authors.html
++++ b/layouts/partials/page_metadata_authors.html
+@@ -5,7 +5,7 @@
+   {{ $link_authors := site.Params.link_authors | default true }}
+   {{ range $index, $value := . }}
+     {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
+-    {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
++    {{- $name := $profile_page.Title | default ($value|markdownify) -}}
+     {{- if gt $index 0 }}, {{ end -}}
+     <span>
+       {{- if and $profile_page $link_authors -}}
 diff --git a/layouts/publication/single.html b/layouts/publication/single.html
 index cf204ea4..3e2d43a9 100644
 --- a/layouts/publication/single.html
