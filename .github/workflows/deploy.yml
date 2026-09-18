@@ -1,0 +1,38 @@
+name: Build and deploy site
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      # The theme (gcushen/hugo-academic v4.8.0) ships two template bugs that
+      # break the build. See theme-patches/README.md.
+      - name: Patch theme
+        run: cd themes/academic && git apply ../../theme-patches/fix-template-bugs.patch
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.95.0'
+          extended: true
+
+      - name: Build
+        run: hugo --gc --minify
+
+      - name: Deploy to chase-eck.github.io
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: chase-eck/chase-eck.github.io
+          publish_branch: master
+          publish_dir: ./public
