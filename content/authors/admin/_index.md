@@ -79,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-I am an Economist at Amazon, where I lead causal inference studies evaluating the impact of returns and recommerce policies on customer and business outcomes. Previously, I was an investigator and health economist at the Baylor College of Medicine and Michael E. DeBakey VA Medical Center through the Center for Innovations in Quality, Effectiveness and Safety (IQuESt), studying the nursing workforce, VA's Community Care program, and access to care. I continue to pursue research in economics and health services research alongside my work in industry.
+I am an Economist at Amazon. Previously, I was an investigator and health economist at the Baylor College of Medicine and Michael E. DeBakey VA Medical Center through the Center for Innovations in Quality, Effectiveness and Safety (IQuESt). I continue to pursue research in economics and health services research alongside my work in industry.
