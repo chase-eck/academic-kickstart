@@ -10,20 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Investigator
+role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: IQuESt - Michael E. DeBakey VA Medical Center
-  url: "https://www.houston.hsrd.research.va.gov/"
-- name: Health Services Research - Baylor College of Medicine
-  url: "https://www.bcm.edu/departments/medicine/sections-and-divisions/health-services-research"
-
+- name: Amazon
+  url: "https://www.amazon.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the social safety net, pricing and concentration, and the healthcare workforce.
+bio: I'm an economist at Amazon working on returns and recommerce, and I continue to pursue research in economics and health services research.
 
 interests:
+- Health Services Research
 - Management and delivery of healthcare
 - Labor & health Economics
 - Public policy
@@ -54,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'chase.eck@bcm.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:chaseseck@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chase__eck
@@ -81,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-I am an investigator at the Baylor College of Medicine and VA Houston through the Center for Innovations in Quality, Effectiveness and Safety (IQuESt). I study how the supply of healthcare influences individual access to care and health outcomes. My recent work focuses on the provision of informal care, the nursing workforce, and VA’s Community Care program.
+I am an Economist at Amazon, where I lead causal inference studies evaluating the impact of returns and recommerce policies on customer and business outcomes. Previously, I was an investigator and health economist at the Baylor College of Medicine and Michael E. DeBakey VA Medical Center through the Center for Innovations in Quality, Effectiveness and Safety (IQuESt), studying the nursing workforce, VA's Community Care program, and access to care. I continue to pursue research in economics and health services research alongside my work in industry.

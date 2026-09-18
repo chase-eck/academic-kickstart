@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Electronic Benefit Transfer Cards on the Food Consumption of SNAP Recipient"
+title: "The Effect of Electronic Benefit Transfer on the Marginal Propensity to Consume Food out of SNAP"
 authors:
 - admin
 author_notes:
