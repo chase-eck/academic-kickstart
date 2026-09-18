@@ -10,23 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Economist
+role: Investigator
 
 # Organizations/Affiliations
 organizations:
-- name: Eller College of Management
-  url: "https://eller.arizona.edu/departments-research/schools-departments/economics"
-- name: The University of Arizona
-  url: "https://arizona.edu"
+- name: IQuESt - Michael E. DeBakey VA Medical Center
+  url: "https://www.houston.hsrd.research.va.gov/"
+- name: Health Services Research - Baylor College of Medicine
+  url: "https://www.bcm.edu/departments/medicine/sections-and-divisions/health-services-research"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the social safety net, pricing and concentration, and the healthcare workforce.
 
 interests:
-- Labor & Health Economics
-- Public Policy
+- Management and delivery of healthcare
+- Labor & health Economics
+- Public policy
+- Industrial organization
 
 grants:
+- VA Seed Award - 2022 ($50,000)
 - NSF Dissertation Improvement Grant - 2020 ($24,355)
 - Eller CMIH Research Grant - 2020 ($5,000)
 - GPSC REAP Grant - 2019 ($1,500)
@@ -50,13 +54,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'chase.eck@bcm.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chase__eck
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=MjQYd0wAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=wE3E69gAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/chase-eck
@@ -77,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral candidate in Economics at The University of Arizona and will be starting as an Economist at the Baylor College of Medicine and VA Houston through the Center for Innovations in Quality, Effectiveness and Safety (IQuEST). My research interests include the social safety net, pricing and concentration, and the healthcare workforce.
+I am an investigator at the Baylor College of Medicine and VA Houston through the Center for Innovations in Quality, Effectiveness and Safety (IQuESt). I study how the supply of healthcare influences individual access to care and health outcomes. My recent work focuses on the provision of informal care, the nursing workforce, and VA’s Community Care program.

@@ -1,13 +1,14 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# A Recent Working Papers section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`
+#  and of publication type 3
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
-title = "Publications"
+title = "Health Services Research Publications"
 subtitle = "[Search all research](/publication)"
 
 [content]
@@ -27,7 +28,7 @@ subtitle = "[Search all research](/publication)"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = "4"
     author = ""
     exclude_featured = false
 
@@ -37,7 +38,7 @@ subtitle = "[Search all research](/publication)"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 4
 
 [design.background]
   # Apply a background color, gradient, or image.

@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "The University of Arizona"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Academic website for Chase Eck"
+description = "Chase Eck is a Health Economist at the Baylor College of Medicine and VA Houston through the Center for Innovations in Quality, Effectiveness and Safety (IQuESt). I study how the supply of healthcare influences individual access to care and health outcomes. His recent work focuses on the provision of informal care, the nursing workforce, and provider network design within the VA’s Community Care Network."
 
 ############################
 ## Site Features
@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "eckcs1@arizona.edu"
+email = "chase.eck@bcm.edu"
 # phone = "417-872-7227"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1130 E. Helen St.", city = "Tucson", region = "AZ", postcode = "85721", country = "United States", country_code = "US"}
+address = {street = "2450 Holcombe Boulevard, Suite 01Y", city = "Houston", region = "TX", postcode = "77021", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -279,7 +279,8 @@ plugins_js  = []
 ############################
 [marketing]
   google_analytics = "UA-172397484-1"
-  google_tag_manager = ""
+  #google_analytics = "G-KLFZL6XRGK"
+  google_tag_manager = "G-KLFZL6XRGK"
 
 ############################
 ## Content Management System

@@ -19,15 +19,24 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Econ Publications"
+  url = "#econ_publications"
   weight = 30
 
+[[main]]
+  name = "HSR Publications"
+  url = "#hsr_publications"
+  weight = 45
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 50
+
+  [[main]]
+   name = "My Lab"
+   url = "#about_luke"
+   weight = 55
 
 [[main]]
   name = "Contact"
@@ -39,4 +48,4 @@
 [[main]]
    name = "CV"
    url = "files/eck_cv.pdf"
-   weight = 70
+   weight = 15

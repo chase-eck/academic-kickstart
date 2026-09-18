@@ -1,26 +1,26 @@
 ---
-title: "Family Support in Hard Times: Dynamics of Intergenerational Exchange after Adverse Events"
+title: "Considering the Effects of a Recent US Supreme Court's Ruling on Dialysis Care Costs"
 authors:
-- Jessamyn Schaller
+- Kevin F. Erickson
 - admin
 author_notes:
 date: "2023"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2023-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Review of Economics and Statistics*. In Press. (2023)"
+publication: "*Clinical Therapeutics* 45 (3) (2023)"
 publication_short: ""
 
-abstract: We use event studies to examine changes in intergenerational financial transfers and informal care within families following wealth loss, job exit, widowhood, and health shocks. We find sharp reductions in giving to adult children following negative shocks to parents' wealth and earned income, particularly in low-wealth households. Giving also decreases with some health shocks and increases following spousal death. Meanwhile, children of low-wealth households increase financial transfers to parents following adverse shocks in parental households and children of both high- and low-wealth households sharply increase their provision of informal care to parents following a wide range of adverse shocks.
+abstract: Dialysis care in the United States is expensive and is mostly paid for by Medicare. To reduce the cost of providing dialysis services, the federal government has relied on a law that designates Medicare as a secondary payer in the first 30 months of dialysis. During this period, private health insurers are the primary payer and pay for the majority of dialysis-related costs. Private health insurers often pay substantially higher prices for dialysis care than does Medicare, possibly due to highly concentrated dialysis-provider markets. A perspective by Boumil and Curfmin in this journal discusses how a recent ruling by the US Supreme Court may limit Medicare's role as a secondary payer, potentially altering the economic relationship between dialysis providers and private insurers. Boumil and Curfmin discuss how these changes may ultimately promote competition in dialysis-provider markets and lower dialysis-related costs paid by private health insurers. We compare this viewpoint to responses and concerns voiced by other stakeholders in the kidney-care community and outline additional ways in which the Supreme Court's ruling may affect competition in dialysis markets and prices paid for dialysis by private insurers.
 
 # Summary. An optional shortened abstract.
 summary: We use regression and event study approaches to examine within-family changes in monetary transfers and informal care following wealth loss, involuntary job displacement, spousal death, and health shocks in retirement-aged households.
@@ -37,13 +37,13 @@ featured: false
 # links:
 # - name: ""
 #url: "www.direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01329/115637/Family-Support-during-Hard-Times-Dynamics-of?redirectedFrom=fulltext"
-url_pdf: 'files/Schaller_Eck_Dec2020.pdf'
-url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PWJ9LH'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0149291823000358'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01329/115637/Family-Support-during-Hard-Times-Dynamics-of?redirectedFrom=fulltext'
+url_source: ''
 url_video: ''
 
 # Featured image

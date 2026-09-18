@@ -1,49 +1,50 @@
 ---
-title: "Family Support in Hard Times: Dynamics of Intergenerational Exchange after Adverse Events"
+title: "Veterans Health Administration enrollees' choice of care setting relates to the expansion of care options: Evidence from screening colonoscopies before and after the MISSION Act"
 authors:
-- Jessamyn Schaller
 - admin
+- Cheng Jiang
+- Laura A. Petersen
+
 author_notes:
 date: "2023"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2023-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Review of Economics and Statistics*. In Press. (2023)"
+publication: "*Health Services Research*. In Press. (2023)"
 publication_short: ""
 
-abstract: We use event studies to examine changes in intergenerational financial transfers and informal care within families following wealth loss, job exit, widowhood, and health shocks. We find sharp reductions in giving to adult children following negative shocks to parents' wealth and earned income, particularly in low-wealth households. Giving also decreases with some health shocks and increases following spousal death. Meanwhile, children of low-wealth households increase financial transfers to parents following adverse shocks in parental households and children of both high- and low-wealth households sharply increase their provision of informal care to parents following a wide range of adverse shocks.
+abstract: The VHA-share of screening colonoscopies among VHA enrollees fell in the 9 months immediately after the passage of the MISSION Act. This decline was larger for VHA enrollees who were targeted for eligibility due to a longer drive time. These results suggest that the MISSION Act led to more VHA-purchased care among targeted VHA enrollees, though it is unclear whether total utilization increased.
 
 # Summary. An optional shortened abstract.
-summary: We use regression and event study approaches to examine within-family changes in monetary transfers and informal care following wealth loss, involuntary job displacement, spousal death, and health shocks in retirement-aged households.
+summary: The VHA-share of screening colonoscopies among VHA enrollees fell in the 9 months immediately after the passage of the MISSION Act. This decline was larger for VHA enrollees who were targeted for eligibility due to a longer drive time. These results suggest that the MISSION Act led to more VHA-purchased care among targeted VHA enrollees, though it is unclear whether total utilization increased.
 
 tags:
-- Adverse events
-- Intergenerational transfers
-- Health shocks
-- Long-term care
-- Health and Retirement Study
+- Veterans Health Administration
+- Community Care
+- MISSION Act
+- Health Services Research
 
 featured: false
 
 # links:
 # - name: ""
 #url: "www.direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01329/115637/Family-Support-during-Hard-Times-Dynamics-of?redirectedFrom=fulltext"
-url_pdf: 'files/Schaller_Eck_Dec2020.pdf'
-url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PWJ9LH'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.14241'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01329/115637/Family-Support-during-Hard-Times-Dynamics-of?redirectedFrom=fulltext'
+url_source: ''
 url_video: ''
 
 # Featured image

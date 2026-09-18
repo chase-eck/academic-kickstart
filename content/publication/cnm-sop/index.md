@@ -1,13 +1,13 @@
 ---
-title: "[JMP] Call the (Certified Nurse) Midwife: The Effect of Scope-of-Practice Laws on Costs, Outcomes, and Sorting"
+title: "Call the (Certified Nurse) Midwife: The Effect of Scope-of-Practice Laws on Costs, Outcomes, and Sorting"
 authors:
 - admin
 author_notes:
-date: "2021"
+date: "2023"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2023-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper"
+publication: "Working Paper"
 publication_short: ""
 
-abstract: In the United States, there are substantial restrictions on who can provide healthcare and how they do so. These labor market restrictions seek to improve quality, but may also increase the cost to provide services and limit consumer choice. I examine this tradeoff by using plausibly exogenous variation in the strictness of Scope-of-Practice laws for Certified Nurse Midwives (CNMs). Half of all states have relaxed their SOP laws to allow CNMs to practice and prescribe independently of a physician. I estimate the effect of granting CNMs full independence on hospital facility costs using administrative data from the Centers for Medicare and Medicaid Services (CMS) and inpatient discharge records from the Healthcare Cost and Utilization Project (HCUP). Using a difference-in-differences research design, I find that allowing CNMs to practice independently substantially reduces hospital facility costs per birth and the use of intensive procedures, such as cesarean sections. These cost reductions are concentrated in hospitals that are well-positioned to integrate CNMs into their practice. I find that maternal health outcomes, as measured by the rate of Severe Maternal Morbidity, also improve. Using a structural choice model, I decompose the overall effect of the policy into savings generated from increased hospital efficiency and savings due to changing selection of patients into hospitals. I find that the savings are primarily driven by increased hospital efficiency for low-risk patients and higher-risk patients select into higher-cost hospitals after the law change. These effects are attenuated by market concentration and a high density of OBGYNs.
+abstract: In the United States, there are substantial restrictions on who can provide healthcare and how they do so. These labor market restrictions seek to improve quality, but may also increase the cost to provide services and limit consumer choice. I examine this tradeoff by using plausibly exogenous variation in the strictness of Scope-of-Practice laws for Certified Nurse Midwives (CNMs). Half of all states have relaxed their SOP laws to allow CNMs to practice and prescribe independently of a physician. I estimate the effect of granting CNMs full independence on hospital facility costs using administrative data from the Centers for Medicare and Medicaid Services (CMS) and inpatient discharge records from the Healthcare Cost and Utilization Project (HCUP). Using a difference-in-differences research design, I find that allowing CNMs to practice independently substantially reduces hospital facility costs per birth and the use of intensive procedures, such as cesarean sections. Hospitals that are well-positioned to integrate CNMs into their practice experience larger cost reductions. I find that maternal health outcomes, as measured by the rate of Severe Maternal Morbidity, also improve. Using a structural choice model, I decompose the overall effect of the policy into savings generated from increased hospital efficiency and savings due to changing selection of patients into hospitals. I find that the savings are primarily driven by increased hospital efficiency for low-risk patients and higher-risk patients select into higher-cost hospitals after the law change. Markets that have high hospital market concentration or a high density of OBGYNs experience smaller effects.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -41,6 +41,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
